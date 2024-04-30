@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ClearSolutionsTestTask
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: user
+    password: secret
+
+minAge: 18
